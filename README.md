@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahid-selim
+- 👋 Hi, I’m amir@shahid-selim
 - 👀 we’re interested to provide digital services & tech education
 - 🌱 we’re currently working on to build a SMART AI SYSTEM
 - 💞️ we’re looking to collaborate on AI/IOT/Robotics
